@@ -1,0 +1,37 @@
+Q：如何快速的输出html5的结构？
+A：在编辑器中输入“html”后，按“tab”键，即可。
+
+Q：简要说明html5结构中的功能。
+A：html 元素是html页面的根元素；head 元素包含了文档的元数据，可设置编码；title 元素决定了文档的标题；body 元素决定了课件的页面内容。
+
+Q：html有几级标题？
+A：html共有六级标题，分别通过h1、h2、h3、h4、h5、h6展示
+
+Q：html主要元素有哪些？
+A：标题标签 <h><\h>；
+    段落标签 <p></p>；
+    链接标签 <a href=""></a>；
+    图像标签 <img src="" alt="">；
+    水平线 <hr>;
+    段落内换行 <br>;
+    
+    字体加粗 <b></b>
+    字体加粗 <strong></strong>
+    字体变大 <big></big>
+    字体变小 <small></small>
+    字体倾斜 <em></em>
+    字体倾斜 <i></i>
+    字体下标 <sub></sub>
+    字体上标 <sup></supb>
+
+
+Q：什么是HTML属性？
+A：属性是HTML元素提供的附加信息，用于定位（class、id）或设置（style、title）
+
+Q：在Vscode中编写代码的快捷键有哪些？
+A：输入“html”后，按“tab”键，可快速输入HTML的整体架构
+    输入一半的标签后，按“tab”键，可快速填充完整的标签
+    ctrl+/ 快速的注释或取消注释
+
+Q：a标签的使用方法：
+A：a标签用于链接目标。其target="_blank"属性可以决定是否在新界面打开
